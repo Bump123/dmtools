@@ -6,6 +6,9 @@ const Page = () => {
     { id: 1, name: "Unit1", ac: 10, roll: 22 },
     { id: 2, name: "Unit2", ac: 12, roll: 30 },
     { id: 3, name: "Unit3", ac: 8, roll: 10 },
+    { id: 4, name: "Unit1", ac: 10, roll: 8 },
+    { id: 5, name: "Unit2", ac: 12, roll: 18 },
+    { id: 6, name: "Unit3", ac: 8, roll: 15 },
   ]);
   const [sorted, setSorted] = useState(false);
 
